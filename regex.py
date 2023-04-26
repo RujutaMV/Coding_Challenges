@@ -1,4 +1,4 @@
-# 8. Find all task codes in the text with using regular expression
+# Find all task codes in the text with using regular expression
 
 import re
 q8_input = '''Working on QA-456 task.
