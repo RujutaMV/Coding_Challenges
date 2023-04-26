@@ -1,2 +1,1 @@
-# practice-repo
-This is the repo where i will be saving some of my practice codes. 
+A compilation for challenging code snippets that I came accross learning Python
